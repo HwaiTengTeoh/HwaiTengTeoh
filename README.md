@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HwaiTengTeoh
+- 👋 Hi, I’m @HwaiTengTeoh.  
 - 👀 I’m interested in leveraging data science knowledge and skills from different sources in every way possible
 - 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
